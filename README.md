@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devika</h1>
+<h1 align="center">Hi 👋, I'm Devika Kanigiri </h1>
 <h3 align="center">Aspiring Software Developer | Passionate Coder | Lifelong Learner</h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/15388/screenshots/6311987/working_1x.gif">
